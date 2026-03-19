@@ -220,14 +220,14 @@
                 i.fas.fa-circle-check.bg-color-8
                 | Método de trazado: triangulación.
       div(titulo="Procedimiento de trazado por triangulación")
-        .row.mb-3.justify-content-center.align-items-center.ms-5
-          .col-lg-5.mb-3.mb-lg-0.order-lg-2
+        .row.mb-3.justify-content-center.align-items-center.col-md-11.col-lg-10.mx-auto
+          .col-12.col-lg-5.mb-3.mb-lg-0.order-lg-2
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span Procedimiento de trazado por triangulación.
             figure
               img(src="@/assets/curso/tema2/14.png", alt="Infografía que describe conceptualmente el procedimiento de trazado por triangulación en plantaciones, utilizando una línea base, mediciones equidistantes y formación de triángulos equiláteros para ubicar puntos de siembra y generar líneas paralelas uniformes que aseguren adecuada distribución del cultivo.")
-          .col-lg-7.order-lg-1 
+          .col-12.col-lg-7.order-lg-1 
             LineaTiempoD.color-secundario
               div(numero="Paso 1" titulo="Línea de referencia")
                 ul.lista-ul--color
@@ -281,7 +281,7 @@
                 ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-8
-                    | Repetir el procedimiento hasta cubrir toda el área.
+                    | Repetir el procedimiento hasta cubrir toda el área.      
       div(titulo="Verificación final del trazado")
         .row.mb-5.justify-content-center.align-items-center.ms-5
           .col-lg-5.mb-3.mb-lg-0.order-lg-2
