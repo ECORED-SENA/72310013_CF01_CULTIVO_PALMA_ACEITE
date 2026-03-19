@@ -13,7 +13,7 @@
           img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
         .bg-color-4.px-5.py-4
-          p.mb-0 Esta etapa comprende las operaciones para implementar la plantación en el sitio definitivo, que implica la preparación y acondicionamiento del terreno, y finalmente el trasplante, por lo cual es necesario planificar adecuadamente, para establecer una población de plantas con capacidad de producir frutos de excelente calidad y altos rendimientos. Por lo anterior, se estudiará el reconocimiento del terreno en la siguiente sección.
+          p.mb-0 Esta etapa comprende las operaciones para implementar la plantación en el sitio definitivo, que implica la preparación y acondicionamiento del terreno, y finalmente el trasplante, por lo cual es necesario planificar adecuadamente para establecer una población de plantas con capacidad de producir frutos de excelente calidad y altos rendimientos. Por lo anterior, se estudiará el reconocimiento del terreno en la siguiente sección.
 
     .bg-fondo-slider.bg-full-width.mb-5
       .p-4.p-lg-5
@@ -24,7 +24,7 @@
                 img(src='@/assets/curso/tema2/2.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Condiciones climáticas 
-              p.mb-0 Inicialmente, se evalúan las condiciones climáticas de la zona, como son temperatura, humedad relativa, precipitación y brillo solar; de acuerdo con las necesidades requeridas por la palma de aceite; teniendo en cuenta que estos factores son decisivos, pues inciden directamente en el desempeño del cultivo y no se pueden modificar.
+              p.mb-0 Inicialmente, se evalúan las condiciones climáticas de la zona, como son temperatura, humedad relativa, precipitación y brillo solar, de acuerdo con las necesidades requeridas por la palma de aceite, teniendo en cuenta que estos factores son decisivos, pues inciden directamente en el desempeño del cultivo y no se pueden modificar.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
@@ -79,7 +79,7 @@
         #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 2.2 Labores de preparación del suelo
         
-        p.mb-5 El acondicionamiento del terreno para palma se define según el análisis de suelo (textura, estructura y profundidad); si se requiere labranza, primero se deben reducir las malezas para facilitar la aireación y la preparación del suelo. A continuación, se detallarácada una de las labores de preparación.
+        p.mb-5 El acondicionamiento del terreno para palma se define según el análisis de suelo (textura, estructura y profundidad); si se requiere labranza, primero se deben reducir las malezas para facilitar la aireación y la preparación del suelo. A continuación, se detallará cada una de las labores de preparación.
 
         .tarjeta--container.row.mb-5
           .col-lg.tarjeta.color-primario.bg-color-10.p-5.text-white(data-aos="flip-up")
@@ -185,7 +185,7 @@
                 | Sombrero
               li.mb-3.d-flex
                 i.fas.fa-circle-check.bg-color-8
-                | Camisa manga larga.
+                | Camisa de manga larga.
               li.mb-3.d-flex
                 i.fas.fa-circle-check.bg-color-8
                 | Guantes de carnaza.
@@ -315,14 +315,14 @@
                 img(src='@/assets/curso/tema2/16.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Rastreras
-              p.mb-0 Son de porte rastrero, entre las que se destacan:  Kudzu (<em>Pueraria phaseoloides</em>), Calipogonium (<em>Calipogonium muconoides</em>), Maní forrajero (<em>Arachis pintoi</em>), Mucuna (<em>Mucuna bracteata</em>), <em>Centrosema pubescens</em> y otras.
+              p.mb-0 Son de porte rastrero, entre las que se destacan:  Kudzu (<em>Pueraria phaseoloides</em>), Calipogonium (<em>Calopogonium muconoides</em>), Maní forrajero (<em>Arachis pintoi</em>), Mucuna (<em>Mucuna bracteata</em>), <em>Centrosema pubescens</em> y otras.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/17.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Semiarbustivas
-              p.mb-0 Son de porte bajo o pueden alcanzar hasta 2 o 3 metros de altura, dependiendo de la especie usada y poseen, la ventaja de que no son trepadoras. Dentro de estos se destacan el <em>Desmodium ovalifolium</em>, <em>Desmodium vellotinum</em> y fríjol (<em>Canavalia ensiformes</em>).
+              p.mb-0 Son de porte bajo o pueden alcanzar hasta 2 o 3 metros de altura, dependiendo de la especie usada, y poseen la ventaja de que no son trepadoras. Dentro de estos se destacan el <em>Desmodium ovalifolium</em>, <em>Desmodium vellotinum</em> y fríjol (<em>Canavalia ensiformes</em>).
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure

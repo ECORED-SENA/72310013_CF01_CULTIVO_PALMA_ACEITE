@@ -233,7 +233,7 @@
                 img(src='@/assets/curso/tema1/19.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Fruto
-              p.mb-0 Es una drupa de forma redonda a ovoide, los cuales conforman el racimo que puede contener en promedio entre 1200 y 1500 frutos. Su longitud puede variar de 3 a 6 cm, con un peso aproximado de 5 a 12 gramos. Está formado por el exocarpio, que tiene la piel lisa y brillante, el mesocarpio, que es la pulpa o tejido fibroso que contiene las células con aceite, el endocarpio, que es una nuez o semilla compuesta por un cuesco lignificado y el endospermo, que es una almendra aceitosa o palmiste (TECHNOSERVER, 2009).
+              p.mb-0 Es una drupa de forma redonda a ovoide, los cuales conforman el racimo que puede contener en promedio entre 1200 y 1500 frutos. Su longitud puede variar de 3 a 6 cm, con un peso aproximado de 5 a 12 gramos. Está formado por el exocarpio, que tiene la piel lisa y brillante; el mesocarpio, que es la pulpa o tejido fibroso que contiene las células con aceite; el endocarpio, que es una nuez o semilla compuesta por un cuesco lignificado; y el endospermo, que es una almendra aceitosa o palmiste (TECHNOSERVER, 2009).
     
     separador
     

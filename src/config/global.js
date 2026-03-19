@@ -65,7 +65,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Diseño de la planeación',
+            titulo: 'Diseño de la plantación',
             hash: 't_2_1',
           },
           {
