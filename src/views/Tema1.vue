@@ -342,7 +342,7 @@
                 h2(data-aos="fade-left").mb-4 Pódcast
                 
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                  texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
+                  texto="Semillero de palma de aceite"
                   tiempo
                   :audio="require('../assets/curso/podcast/podcast1.mp3')"
                 )
