@@ -440,18 +440,31 @@ export default {
         {
           id: 13,
           texto:
-            'La limpieza del terreno para un cultivo de palma de aceite debe realizarse de forma total, incluyendo la tala de árboles en nacederos, ríos y humedales, para garantizar que la maquinaria pueda entrar sin obstáculos.',
+            '¿Cómo debe realizarse la limpieza del terreno para el cultivo de palma de aceite?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
-              esCorrecta: true,
+              texto:
+                'Solo en áreas planas para poder fertilizar, apodar y abonar.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'De forma parcial para conservar vegetación, flora y fauna.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'De forma total, incluyendo nacederos, ríos y humedales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Únicamente donde se sembrarán las palmas que es lo pertinente.',
               esCorrecta: false,
             },
           ],
@@ -461,18 +474,32 @@ export default {
         {
           id: 14,
           texto:
-            'El hoyo para la siembra de una palma de aceite debe tener exactamente el mismo tamaño de la bolsa para asegurar que la palma quede apretada y no entre aire a las raíces',
+            '¿Cuál es el objetivo principal de la limpieza total del terreno?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
+              texto:
+                'Garantizar que la maquinaria pueda entrar sin obstáculos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'Reducir costos para que el desarrollo productivo sea sostenible.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Facilitar el crecimiento natural y desarrollo fenológico de plantulas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Evitar el uso de fertilizantes sin la instrucción de agrónomo.',
               esCorrecta: false,
             },
           ],
@@ -482,19 +509,197 @@ export default {
         {
           id: 15,
           texto:
-            'La siembra de la palma de aceite debe realizarse preferiblemente al final del periodo de lluvias, cuando la palma tiene una edad de 6 meses en el vivero.',
+            '¿Cuál es el objetivo principal de las labores de labranza antes de la siembra?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
-              esCorrecta: true,
+              texto:
+                'Aumentar la temperatura del suelo para favorecer la germinación de semillas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'Romper capas endurecidas y mejorar las condiciones del suelo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Reducir la cantidad de agua en el terreno para realización optimización del recurso hídrico.',
               esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Evitar el uso de maquinaria agrícola y pesada para evitar el rompimiento de suelos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Cómo debe ser el tamaño del hoyo para sembrar una palma de aceite?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Más grande que la bolsa para la germinación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Más pequeño que la bolsa para aprovechar los espacios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Exactamente del mismo tamaño de la bolsa.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Variable según el clima, la humedad, y el suelo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Cuál de los siguientes elementos hace parte de los Elementos de Protección Personal (EPP)?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Casco industrial cubierto, fabricado en polietileno, de alta densidad (HDPE).',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Chaleco reflectivo únicamente, reglamentario, fabricado en poliéster.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Protector auditivo solamente, con alta capacidad para atenuar el ruido.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sombrero, camisa manga larga, guantes de carnaza y botas de trabajo.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Cuál es uno de los riesgos principales al trabajar en campo sin protección adecuada?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Disminución del rendimiento del cultivo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Aumento de la humedad del suelo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Mejora en la producción y calidad.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Exposición a radiación solar.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Cuál es el propósito de la línea de referencia en el trazado por triangulación?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Medir la profundidad para favorecer el suelo y capas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Servir como base para el estaquillado en triángulo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Determinar la fertilidad del terreno y así ubicar las semillas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Definir la cantidad de semillas y proyectar la siembra.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Cuál es el beneficio principal de usar coberturas vegetales en el cultivo de palma de aceite?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Aumentar el uso de maquinaria para que no sufran obsolescencia y depreciación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Reducir la necesidad de riego para inundar el lote y generar encharcamiento.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Evitar el crecimiento de la palma para que no se genere un desarrollo precoz.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Minimizar el impacto de la lluvia, el sol y el viento sobre el suelo.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
