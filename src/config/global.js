@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Cultivo de palma de aceite: previvero, vivero y siembra.',
+    Name: 'Cultivo de palma de aceite: previvero, vivero y siembra',
     Description:
       'En este componente formativo, el aprendiz conocerá las etapas del ciclo productivo de la palma de aceite, desde el reconocimiento del terreno, diseño de la plantación, diseño de los lotes productivos, la selección técnica del material de siembra y sustratos, hasta la adecuación estratégica del terreno mediante el trazado, drenaje, preparación de suelo y siembra de plantas en sitio definitivo. Dicha siembra comprende realizar un alistamiento en vivero, transporte de las plantas del vivero al lugar definitivo y trasplante.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -234,7 +234,7 @@ export default {
     {
       termino: 'Previvero',
       significado:
-        'Etapa inicial del cultivo en la que las plántulas se desarrollan en bolsas pequeñas y alta densidad, bajo sombra y condiciones controladas.',
+        'Etapa inicial del cultivo en la que las plántulas se desarrollan en bolsas pequeñas y de alta densidad, bajo sombra y condiciones controladas.',
     },
     {
       termino: 'Radícula',
@@ -406,13 +406,13 @@ export default {
     },
     {
       referencia:
-        'TECHNOSERVER. (2009). <em>Comparativo técnico de rendimientos de cultivos oleaginosos</em>. Technoserver.',
+        'TECHNOSERVE. (2009). <em>Comparativo técnico de rendimientos de cultivos oleaginosos</em>. Technoserve.',
       link:
         'https://bibliotecadelbotanico.org/producto/manual-tecnico-de-palma-africana',
     },
     {
       referencia:
-        'TECHNOSERVER Soluciones empresariales para la pobreza rural. (2009). <em>Manual técnico de palma africana</em>.',
+        'TECHNOSERVE Soluciones empresariales para la pobreza rural. (2009). <em>Manual técnico de palma africana</em>.',
       link: 'https://studylib.es/doc/5470137/manual-tecnico-de-palma-africana',
     },
   ],
@@ -422,12 +422,12 @@ export default {
       autores: [
         {
           nombre: 'Johanna Gómez',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],

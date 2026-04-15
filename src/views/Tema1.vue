@@ -32,16 +32,16 @@
           .col-lg-6
             .bg-color-4.p-4
               .brbr.mb-3
-                p <b>Nombre científico:</b> <em>Elaeis guineensis</em>
+                p <b>Nombre científico:</b> <em>elaeis guineensis.</em>
               .brbr.mb-3
-                p <b>Origen:</b> Golfo de Guinea en África.
+                p <b>Origen:</b> golfo de Guinea en África.
               .brbr.mb-3
-                p <b>Clima:</b> Cálido.
+                p <b>Clima:</b> cálido.
               .brbr.mb-3
-                p <b>Tipo de cultivo:</b> Perenne.
+                p <b>Tipo de cultivo:</b> perenne.
               .brbr.mb-3
                 p <b>Promedio de vida útil:</b> Entre 24 y 25 años.
-              p <b>Propósito:</b> Planta oleaginosa que se cultiva para extracción de aceite. Se comercializa para uso culinario, industrial y generación de energía alternativa, 
+              p <b>Propósito:</b> Planta oleaginosa que se cultiva para extracción de aceite. Se comercializa para uso culinario, industrial y generación de energía alternativa. 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -109,7 +109,7 @@
               span Rendimientos de algunos cultivos oleaginosos.
             .tabla-a.color-acento-contenido.mb-5.tbl
               table
-                caption Nota: TECHNOSERVER (2009).
+                caption Nota: TechnoServe (2009).
                 thead
                   tr
                     th.bg-color-10 Cultivo
@@ -160,7 +160,7 @@
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 C
-                p.text-center La humedad relativa de la zona debe ser superior al 75%.
+                p.text-center La humedad relativa de la zona debe ser superior al 75 %.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
                 img(src='@/assets/curso/tema1/11.svg' alt='AvatarTop' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
@@ -184,7 +184,7 @@
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 G
-                p.text-center Pendientes inferiores al 12%.
+                p.text-center Pendientes inferiores al 12 %.
           .col-md-8.col-lg-4.order-lg-1
             figure
               img(src='@/assets/curso/tema1/7.png', alt='Descripción de la imagen')
@@ -233,7 +233,7 @@
                 img(src='@/assets/curso/tema1/19.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Fruto
-              p.mb-0 Es una drupa de forma redonda a ovoide, los cuales conforman el racimo que puede contener en promedio entre 1200 y 1500 frutos. Su longitud puede variar de 3 a 6 cm, con un peso aproximado de 5 a 12 gramos. Está formado por el exocarpio, que tiene la piel lisa y brillante; el mesocarpio, que es la pulpa o tejido fibroso que contiene las células con aceite; el endocarpio, que es una nuez o semilla compuesta por un cuesco lignificado; y el endospermo, que es una almendra aceitosa o palmiste (TECHNOSERVER, 2009).
+              p.mb-0 Es una drupa de forma redonda a ovoide, los cuales conforman el racimo que puede contener en promedio entre 1200 y 1500 frutos. Su longitud puede variar de 3 a 6 cm, con un peso aproximado de 5 a 12 gramos. Está formado por el exocarpio, que tiene la piel lisa y brillante; el mesocarpio, que es la pulpa o tejido fibroso que contiene las células con aceite; el endocarpio, que es una nuez o semilla compuesta por un cuesco lignificado; y el endospermo, que es una almendra aceitosa o palmiste (TechnoServe, 2009).
     
     separador
     
@@ -260,7 +260,7 @@
                     img(src='@/assets/curso/tema1/20.png', alt='alt')
                 .col-lg
                   .p-4
-                    p.mb-0(data-aos="fade-up") La semilla de la palma de aceite es la nuez que queda después de la extracción del mesocarpio aceitoso. Consta de un cuesco o endocarpio y de una, dos o tres almendras; pero comúnmente contiene solo una almendra. La semilla puede tener un tamaño de 2 cm de largo y un peso aproximado de 2 gr. Sin embargo, el tamaño varía mucho y depende del grosor de la cáscara como del tamaño de la almendra.
+                    p.mb-0(data-aos="fade-up") La semilla de la palma de aceite es la nuez que queda después de la extracción del mesocarpio aceitoso. Consta de un cuesco o endocarpio y de una, dos o tres almendras; pero comúnmente contiene solo una almendra. La semilla puede tener un tamaño de 2 cm de largo y un peso aproximado de 2 g Sin embargo, el tamaño varía mucho y depende del grosor de la cáscara como del tamaño de la almendra.
 
         p.mb-5 Las características de las semillas constituyen un aspecto fundamental para el establecimiento exitoso del cultivo y las estudiaremos a continuación.
 
@@ -368,7 +368,7 @@
                 img(src='@/assets/curso/tema1/29.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Sitio de trabajo
-              p La clasificación de semillas se debe hacer en un sitio fresco, a temperaturas inferiores de 35 ºC y nunca bajo exposición solar o a la lluvia.  Si el sitio de trabajo está muy despejado, se hace un cobertizo para brindar sombra suficiente para recibir, desempacar y manejar la semilla. 
+              p La clasificación de semillas se debe hacer en un sitio fresco, a temperaturas inferiores a 35 ºC y nunca bajo exposición solar o a la lluvia.  Si el sitio de trabajo está muy despejado, se hace un cobertizo para brindar sombra suficiente para recibir, desempacar y manejar la semilla. 
               p.mb-0 Para facilitar el trabajo del operario, el proceso se realiza sobre una superficie plana (mesa) y amplia de acuerdo con la cantidad de semillas a clasificar.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
@@ -388,7 +388,7 @@
                   | Desinfectante. 
                 li.mb-3.d-flex
                   i.fas.fa-circle-check.bg-color.bg-color-8
-                  | Atomizador o recipiente espray previamente desinfectado. 
+                  | Atomizador o recipiente de espray previamente desinfectado. 
                 li.mb-3.d-flex
                   i.fas.fa-circle-check.bg-color.bg-color-8
                   | Tazas o bandejas plásticas previamente desinfectadas.  
@@ -606,7 +606,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
             h4 Sustrato
-            p El sustrato para llenar las bolsas debe obtenerse de la capa superior del terreno (0 a 20 cm); debe tener condiciones físicas y químicas excelentes, para facilitar el drenaje y permitir un crecimiento óptimo de las plantas. Si no está suficientemente disgregado, se debe acondicionar hasta que permita ser manipulado fácilmente, sin pulverizarlo o tamizarlo, ya que esto destruye su estructura. Si eventualmente el suelo es pobre en nutrientes, al determinar su fertilidad, se le puede agregar fertilizante compuesto N-P-K en una cantidad de 2 gramos por bolsa (1825 kg de peso) y algún fertilizante orgánico (compost), nunca superando el 10% del total de la bolsa y asegurando mezcla homogénea. La mezcla con arena no es recomendable, a excepción de que el suelo disponible sea muy pesado y masivo. Los montículos de suelo deben cubrirse con plásticos o algún otro material para prevenir pérdidas de suelo y nutrientes por lavado. No se recomienda llenar bolsas con suelo húmedo.
+            p El sustrato para llenar las bolsas debe obtenerse de la capa superior del terreno (0 a 20 cm); debe tener condiciones físicas y químicas excelentes, para facilitar el drenaje y permitir un crecimiento óptimo de las plantas. Si no está suficientemente disgregado, se debe acondicionar hasta que permita ser manipulado fácilmente, sin pulverizarlo o tamizarlo, ya que esto destruye su estructura. Si eventualmente el suelo es pobre en nutrientes, al determinar su fertilidad, se le puede agregar fertilizante compuesto N-P-K en una cantidad de 2 gramos por bolsa (1825 kg de peso) y algún fertilizante orgánico (compost), nunca superando el 10 % del total de la bolsa y asegurando mezcla homogénea. La mezcla con arena no es recomendable, a excepción de que el suelo disponible sea muy pesado y masivo. Los montículos de suelo deben cubrirse con plásticos o algún otro material para prevenir pérdidas de suelo y nutrientes por lavado. No se recomienda llenar bolsas con suelo húmedo.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/48.png', alt='Imagen de acompañamiento')
@@ -689,7 +689,7 @@
                 img(src='@/assets/curso/tema1/57.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Fertilizantes
-              p.mb-0 En los primeros 60 días, las plántulas se nutren principalmente del endospermo, aunque puede presentarse clorosis al retirar la sombra, la cual se corrige con aplicaciones de urea. La fertilización inicia tras la aparición de la primera hoja completa, ajustándose a las condiciones de cada cultivo, priorizando actualmente el uso de abonos orgánicos como Bocashi y caldos microbiales.
+              p.mb-0 En los primeros 60 días, las plántulas se nutren principalmente del endospermo, aunque puede presentarse clorosis al retirar la sombra, la cual se corrige con aplicaciones de urea. La fertilización inicia tras la aparición de la primera hoja completa, ajustándose a las condiciones de cada cultivo, priorizando actualmente el uso de abonos orgánicos como <i>bocashi</i> y caldos microbiales.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
@@ -835,7 +835,7 @@
               img(src="@/assets/curso/tema1/68.png")
           .col-lg-7.order-lg-1
             p El suministro adecuado y oportuno de agua es uno de los aspectos más críticos en un vivero de palma de aceite; por lo tanto, es necesario implementar un sistema de riego que satisfaga los requerimientos hídricos del cultivo, para lograr un crecimiento y desarrollo normal del mismo.
-            p.mb-0 El sistema de riego a presión por aspersión es uno de los más utilizados en viveros por su eficiencia, el cual consiste en suministrar agua sobre la superficie del suelo en forma de lluvia artificial. Uno de los aspectos más importantes en el uso de este sistema, es su diseño y distribución de los aspersores para garantizar un correcto traslape; comúnmente se distribuyen triangularmente para garantizar una distribución homogénea del agua. Además es de fácil operación, proporciona la facilidad de verificar su funcionamiento y efectividad, requiere poca mano de obra y tiene un costo aceptable. 
+            p.mb-0 El sistema de riego a presión por aspersión es uno de los más utilizados en viveros por su eficiencia, el cual consiste en suministrar agua sobre la superficie del suelo en forma de lluvia artificial. Uno de los aspectos más importantes en el uso de este sistema es su diseño y distribución de los aspersores para garantizar un correcto traslape; comúnmente se distribuyen triangularmente para garantizar una distribución homogénea del agua. Además, es de fácil operación, proporciona la facilidad de verificar su funcionamiento y efectividad, requiere poca mano de obra y tiene un costo aceptable. 
 
 </template>
 

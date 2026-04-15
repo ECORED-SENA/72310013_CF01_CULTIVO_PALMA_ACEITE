@@ -106,7 +106,8 @@
       h2 2.3 Trazado de la plantación
     
     p.mb-5 Para iniciar las actividades del trazado, se debe verificar el estado de limpieza del área; para ello se observan los obstáculos que impiden la visualización del alineado y de las marcaciones, y se procede a retirarlos, cuidando que no queden arbustos,  malezas ni objetos cuya altura sea superior a 50 centímetros. Tras lo anterior, estudiaremos los pasos para realizar un buen trazado.
-
+    p.mb-5  
+    .tarjeta--container.row.mb-5
      AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-9")
       div(titulo="Verificación y preparación del área")
         .row.mb-5.justify-content-center.align-items-center.ms-5
@@ -329,7 +330,7 @@
                 img(src='@/assets/curso/tema2/18.png', alt='Imagen de acompañamiento')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Árboles y arbustos
-              p Son de porte alto; pueden crecer desde 2 hasta 10 metros de altura. Entre estos tenemos: <em>Flemingia congesta</em>, <em>Tephrosia</em>, sp. Y <em>Cajanus cajan</em> (guandul). 
+              p Son de porte alto; pueden crecer desde 2 hasta 10 metros de altura. Entre estos tenemos: <em>Flemingia congesta</em>, <em>Tephrosia</em>, sp.  <em>Cajanus cajan</em> (guandul). 
               p Algunos de este tercer grupo son ideales para la protección de canales de drenaje primarios y para orillas de carreteras y en canales secundarios, si se podan correctamente.
               p Dependiendo de la especie seleccionada como cobertura, se siembran entre las hileras al voleo o en surcos. Se recomienda apartar la cobertura del plato de la palma en ciclos periódicos de 3 a 8 semanas, dependiendo principalmente del tipo de crecimiento de la especie utilizada (kudzu, mucuna, etc.).
 

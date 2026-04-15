@@ -1,1 +1,1 @@
-module.exports = 'Cultivo de palma de aceite: previvero, vivero y siembra.'
+module.exports = 'Cultivo de palma de aceite: previvero, vivero y siembra'
