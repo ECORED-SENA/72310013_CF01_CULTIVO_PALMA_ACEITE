@@ -56,7 +56,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/3.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/3.png', alt='')
     
           h3.mb-4.text-center Dura
           p.mb-0.text-center Cuesco grueso, menor pulpa. 
@@ -68,7 +68,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/4.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/4.png', alt='')
     
           h3.mb-4.text-center Pisífera
           p.mb-0.text-center Cuesco ausente o muy delgado.
@@ -78,7 +78,8 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/5.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/5.png', alt='')
+
     
           h3.mb-4.text-center Tenera
           p.mb-0.text-center Cuesco delgado, mayor pulpa. 
@@ -144,43 +145,43 @@
           .col-lg-8.order-lg-2
             SlyderF(columnas="col-12 col-lg-6").p-lg-4
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/8.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/8.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 A
                 p.text-center Se desarrolla en altitudes que van desde los 0-500 msnm.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/9.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/9.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 B
                 p.text-center La temperatura óptima para su desarrollo debe estar entre 25 y 28 ºC.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/10.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/10.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 C
                 p.text-center La humedad relativa de la zona debe ser superior al 75 %.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/11.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/11.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 D
                 p.text-center Las precipitaciones óptimas deben estar entre 1800 y 2200 mm al año, aproximadamente 150 mm al mes.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/12.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/12.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 E
                 p.text-center Por ser una planta heliófila, requiere de aproximadamente 1500 horas luz al año.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/13.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/13.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 F
                 p.text-center La palma de aceite tiene un óptimo desarrollo en suelos profundos, con texturas francas, buen contenido de materia orgánica y bien drenados.
               .bg-color-white.tarjeta.p-4.h-100.box-shadow.d-flex.flex-column.align-items-center
-                img(src='@/assets/curso/tema1/14.svg' alt='AvatarTop' style="max-width: 115px").mb-3
+                img(src='@/assets/curso/tema1/14.svg' alt='' style="max-width: 115px").mb-3
                 //- Contenedor del círculo centrado
                 .bg-color-6.tarjeta.d-flex.justify-content-center.align-items-center.mb-4(style="width: 50px; height: 50px; border-radius: 50%;")
                   h3.mb-0 G
@@ -202,35 +203,35 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/15.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/15.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Raíces
               p.mb-0 El sistema radicular de la palma se desarrolla a partir del bulbo de la base del tallo. Gran parte de sus raíces son superficiales, concentrándose en los primeros 50 cm del suelo; sin embargo, las raíces de anclaje pueden alcanzar profundidades de 1 hasta 15 metros y la cantidad de raíces absorbentes que están alrededor de la palma alcanzan a llegar en un radio de 3.50 a 4.50 metros.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/16.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/16.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Tallo
               p.mb-0 También denominado estipe, que comunica el sistema radicular con las hojas, el cual crece entre 30 y 50 cm por año y puede alcanzar hasta 30 m. Se caracteriza por formar gruesas escamas cuando es joven, por ser de forma cónica, es ancho en el bulbo o base y delgado en el ápice.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/17.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/17.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Hojas
               p.mb-0 Las hojas son pinnadas, de 5 a 7 m de longitud; una palma adulta puede tener entre 30 y 49 hojas funcionales. Estas se componen de un peciolo de aproximadamente 1.5 m con espinas laterales y un raquis que soporta entre 200 y 300 foliolos que se insertan alternadamente en las caras laterales.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/18.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/18.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Inflorescencia
               p.mb-0 Es un espádice formado por un pedúnculo y un raquis central ramificado. Estas se producen en la axila de cada una de las hojas. La planta es monoica, es decir, que posee flores tanto femeninas como masculinas, pero requiere el transporte de polen de una planta a otra para su fecundación, por lo cual es alógama porque su polinización es cruzada. Una vez fecundada, la inflorescencia femenina da origen al racimo.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/19.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/19.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Fruto
               p.mb-0 Es una drupa de forma redonda a ovoide, los cuales conforman el racimo que puede contener en promedio entre 1200 y 1500 frutos. Su longitud puede variar de 3 a 6 cm, con un peso aproximado de 5 a 12 gramos. Está formado por el exocarpio, que tiene la piel lisa y brillante; el mesocarpio, que es la pulpa o tejido fibroso que contiene las células con aceite; el endocarpio, que es una nuez o semilla compuesta por un cuesco lignificado; y el endospermo, que es una almendra aceitosa o palmiste (TechnoServe, 2009).
@@ -257,7 +258,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-auto
                   figure
-                    img(src='@/assets/curso/tema1/20.png', alt='alt')
+                    img(src='@/assets/curso/tema1/20.png', alt='')
                 .col-lg
                   .p-4
                     p.mb-0(data-aos="fade-up") La semilla de la palma de aceite es la nuez que queda después de la extracción del mesocarpio aceitoso. Consta de un cuesco o endocarpio y de una, dos o tres almendras; pero comúnmente contiene solo una almendra. La semilla puede tener un tamaño de 2 cm de largo y un peso aproximado de 2 g Sin embargo, el tamaño varía mucho y depende del grosor de la cáscara como del tamaño de la almendra.
@@ -270,35 +271,35 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/21.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/21.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Cuesco o endocarpio
               p.mb-0 Es la estructura que protege el embrión, los poros germinales, el ovario tricarpelar y la almendra. Dentro del cuesco están las almendras o endospermo, donde se encuentra el embrión. Y en él se encuentran los órganos que son importantes en la germinación de la semilla, como el cotiledón. Cabe anotar que del embrión nacen la plúmula y la radícula de la semilla.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/22.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/22.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Poro germinal
               p.mb-0 Es un tapón de fibras que se descubre durante la germinación. 
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/23.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/23.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Plúmula
               p.mb-0 Esta es la estructura recta que da origen a las hojas. Alcanza una longitud de 1.5 cm.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/24.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/24.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Radícula
               p.mb-0 Es la estructura más larga y blanca que tiene la semilla, la cual da origen a la raíz; puede presentar curvaturas. Alcanza una longitud de 2.5 a 3.5 cm.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/25.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/25.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Raíces adventicias
               p.mb-0 Son pequeños y finos pelos que se desarrollan desde la radícula.
@@ -316,7 +317,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-auto
               figure
-                img(src='@/assets/curso/tema1/26.png', alt='alt')
+                img(src='@/assets/curso/tema1/26.png', alt='')
             .col-lg
               .p-4
                 p(data-aos="fade-up") El proceso de germinación de la semilla tarda entre 60 y 90 días (2-3 meses). La plúmula no sale hasta que la radícula no haya alcanzado un centímetro de largo; estas deben ser de color blanco cremoso brillante. Las raíces adventicias se producen por encima de la unión de la radícula con la plúmula y dan origen a raíces secundarias antes de que haya salido la primera hoja. 
@@ -365,7 +366,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/29.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/29.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Sitio de trabajo
               p La clasificación de semillas se debe hacer en un sitio fresco, a temperaturas inferiores a 35 ºC y nunca bajo exposición solar o a la lluvia.  Si el sitio de trabajo está muy despejado, se hace un cobertizo para brindar sombra suficiente para recibir, desempacar y manejar la semilla. 
@@ -373,7 +374,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/30.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/30.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Materiales para utilizar
               ul.lista-ul--color.ms-3
@@ -398,7 +399,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/31.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/31.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Seguridad e higiene
               p Para manipular las semillas, se deben llevar a cabo acciones para evitar la contaminación de éstas y garantizar la protección de la persona que realiza la labor. 
@@ -488,70 +489,70 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/36.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/36.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Extracción y disposición inicial
               p.mb-0 Se retiran cuidadosamente las semillas de la bolsa y se extienden sobre una superficie limpia y desinfectada, cubierta con tela de algodón o toalla de papel.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/37.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/37.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Control de condiciones ambientales
               p.mb-0 No se deben manipular semillas cuando la temperatura supere los 35 °C ni en ambientes extremadamente secos o húmedos. 
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/38.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/38.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Verificación y ajuste de humedad
               p.mb-0 Las semillas deben conservar su color negro brillante, indicativo de buena humedad. Si se tornan opacas o grisáceas, se aplica agua limpia con atomizador sin exceder la superficie del cuesco.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/39.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/39.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Clasificación técnica
               p.mb-0 Se separan las semillas conforme a los criterios técnicos de selección previamente establecidos.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/40.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/40.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Manejo de semillas sanas
               p.mb-0 Las semillas aptas se colocan en recipientes plásticos (máximo 100 unidades) con agua o cubiertas con tela húmeda y se trasladan al área de siembra.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/41.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/41.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Separación de semillas mellizas
               p.mb-0 Las semillas dobles se apartan para ser sembradas en secciones especiales del vivero o previvero.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/42.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/42.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Descarte por daños mecánicos
               p.mb-0 Las semillas con golpes o fisuras se eliminan, ya que no producirán plántulas vigorosas.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/43.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/43.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Manejo de semillas enfermas
               p.mb-0 Las semillas con signos de enfermedad se retiran, registran e incineran para evitar contaminaciones.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/44.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/44.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Registro de semillas anormales
               p.mb-0 Todas las semillas anormales o enfermas deben anotarse en una planilla de control.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/45.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/45.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Control de calidad y reclamación
               p.mb-0 Si el porcentaje de descarte supera el 3 %, se debe realizar la reclamación al proveedor, conservando muestras o fotografías como evidencia.
@@ -571,7 +572,7 @@
             p Los viveros constituyen la fase inicial y determinante en los proyectos de palma de aceite, ya que el manejo brindado en esta etapa influye directamente en el crecimiento, la precocidad, el rendimiento y los costos del cultivo en campo. Su objetivo es producir plantas vigorosas y resistentes, capaces de expresar tempranamente su potencial productivo, mediante un proceso que puede desarrollarse en una o dos etapas (previvero y vivero principal), según los recursos y necesidades del productor.
           .col-lg-4.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema1/46.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema1/46.png', alt='')
       .p-3.p-md-4(titulo="Selección del lugar del vivero")
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
@@ -601,7 +602,7 @@
                 | Distancias considerables de bosques (mayores a 20 metros).
           .col-lg-4.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema1/47.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema1/47.png', alt='')
       .p-3.p-md-4(titulo="Sustrato")
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
@@ -609,7 +610,7 @@
             p El sustrato para llenar las bolsas debe obtenerse de la capa superior del terreno (0 a 20 cm); debe tener condiciones físicas y químicas excelentes, para facilitar el drenaje y permitir un crecimiento óptimo de las plantas. Si no está suficientemente disgregado, se debe acondicionar hasta que permita ser manipulado fácilmente, sin pulverizarlo o tamizarlo, ya que esto destruye su estructura. Si eventualmente el suelo es pobre en nutrientes, al determinar su fertilidad, se le puede agregar fertilizante compuesto N-P-K en una cantidad de 2 gramos por bolsa (1825 kg de peso) y algún fertilizante orgánico (compost), nunca superando el 10 % del total de la bolsa y asegurando mezcla homogénea. La mezcla con arena no es recomendable, a excepción de que el suelo disponible sea muy pesado y masivo. Los montículos de suelo deben cubrirse con plásticos o algún otro material para prevenir pérdidas de suelo y nutrientes por lavado. No se recomienda llenar bolsas con suelo húmedo.
           .col-lg-4.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema1/48.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema1/48.png', alt='')
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -624,21 +625,21 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/49.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/49.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Etapa inicial en previvero (hasta 90 días)
               p.mb-0 La semilla germinada se desarrolla en bolsa pequeña y a alta densidad por área, lo que facilita el manejo logístico de riego, fertilización, sombra y control fitosanitario, hasta que la plántula esté lista para su traslado al vivero principal.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/50.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/50.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Cobertura y manejo del sombrío
               p.mb-0 La estructura debe tener una altura entre 2,0 y 2,20 m, cubierta con polisombra u hojas de palma seca que permitan el 60 % de entrada de luz solar. El sombrío debe retirarse gradualmente antes del trasplante (50 % dos semanas antes y el restante 50 % ocho días antes) para evitar estrés por exposición directa al sol.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/51.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/51.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Diseño y dimensiones de las camas
               p.mb-0 Las camas deben medir entre 1,0 y 1,20 m de ancho y hasta 20 m de largo, con separaciones de 0,60 a 0,80 m para facilitar la circulación. Deben elevarse al menos 10 cm sobre el nivel del suelo y orientarse de norte a sur para un mejor aprovechamiento de la luz solar.
@@ -651,49 +652,49 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/52.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/52.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Selección del lugar del vivero
               p.mb-0 Para el éxito del previvero y vivero, es fundamental emplear bolsas de polietileno negro de alta densidad con protección UV y sin material reciclado. En la etapa inicial, se utilizan dimensiones de 20 x 16 cm o 25 x 20 cm (calibre 1) con perforaciones de 0.5 cm para el drenaje. El llenado correcto incluye una capa base de 3 cm de material filtrante y finaliza a 4 cm del borde superior, permitiendo un doblez que refuerza la estructura, evita el estancamiento de agua y previene rupturas del empaque.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/53.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/53.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Siembra de la semilla
               p.mb-0 Para la siembra, se dobla el borde de la bolsa, se nivela el sustrato y se deja espacio para aplicar mulch que evite la erosión. La semilla se coloca con la plúmula hacia arriba y la radícula hacia abajo, a 0,5–1 cm de profundidad, compactando suavemente y supervisando para evitar que quede expuesta por el riego o la lluvia.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/54.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/54.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Desarrollo de las plántulas en previvero
               p.mb-0 La plántula permanece cerca de tres meses en desarrollo, periodo en el que inicia la fotosíntesis y la absorción de nutrientes. Al mes forma su primera hoja verde y, hacia los dos meses, presenta 3 o 4 hojas y una raíz de 10 a 15 cm, momento en el que puede realizarse el trasplante.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/55.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/55.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Selección en previvero
               p.mb-0 Las plantas deben seleccionarse cuatro veces durante su desarrollo: una en previvero (a los 2–3 meses) y tres en vivero, eligiendo plántulas con 3–4 hojas verdes, sanas y bien formadas. En este proceso se eliminan aquellas con anormalidades como hojas rizadas, enrolladas, enanas, cloróticas, torcidas o con alteraciones genéticas; las plántulas dobles se separan al trasplante y el material descartado debe disponerse adecuadamente o aprovecharse para compost.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/56.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/56.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Control de maleza, plagas y enfermedades
               p.mb-0 La maleza en las bolsas debe retirarse manualmente y el uso de plaguicidas solo realizarse ante problemas específicos. Es fundamental supervisar diariamente el previvero para prevenir la propagación de plagas, corregir plúmulas torcidas y orientar adecuadamente las bolsas.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/57.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/57.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Fertilizantes
               p.mb-0 En los primeros 60 días, las plántulas se nutren principalmente del endospermo, aunque puede presentarse clorosis al retirar la sombra, la cual se corrige con aplicaciones de urea. La fertilización inicia tras la aparición de la primera hoja completa, ajustándose a las condiciones de cada cultivo, priorizando actualmente el uso de abonos orgánicos como <i>bocashi</i> y caldos microbiales.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/58.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/58.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Riego
               p.mb-0 El riego oportuno es esencial para garantizar el crecimiento óptimo de las plántulas, manteniendo el sustrato húmedo sin excesos ni déficits. Se recomienda ubicar el vivero cerca de una fuente de agua de buena calidad y utilizar microaspersión y <em>mulch</em> para conservar la humedad y reducir malezas.

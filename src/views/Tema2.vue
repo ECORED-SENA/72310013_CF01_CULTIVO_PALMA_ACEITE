@@ -21,28 +21,28 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/2.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/2.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Condiciones climáticas 
               p.mb-0 Inicialmente, se evalúan las condiciones climáticas de la zona, como son temperatura, humedad relativa, precipitación y brillo solar, de acuerdo con las necesidades requeridas por la palma de aceite, teniendo en cuenta que estos factores son decisivos, pues inciden directamente en el desempeño del cultivo y no se pueden modificar.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/3.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/3.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Observación del terreno
               p.mb-0 Por otra parte, se debe realizar un reconocimiento ocular del terreno para identificar cauces naturales, topografía, tipo de vegetación existente (bosque primario o secundario), información que indicará el manejo posterior de limpieza y adecuación.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/4.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/4.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Planos topográficos
               p.mb-0 Se recomienda contar con planos topográficos del área de producción que incluyan la ubicación de fuentes hídricas, zonas de bosque, información de planimetría y altimetría, con el fin de identificar áreas y pendientes del terreno y facilitar la planificación y diseño de la plantación, como vías, drenajes, sistemas de riego, tamaño de lotes y forma de siembra; además, se prefieren terrenos planos o ligeramente ondulados porque ofrecen mejores rendimientos, mientras que las pendientes pronunciadas incrementan los costos de producción, favorecen la erosión, dificultan las labores de manejo y pueden afectar la productividad del cultivo.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/5.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/5.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Análisis de suelos
               p.mb-0 Se recomienda realizar un estudio de caracterización de suelos, siguiendo las indicaciones del asistente técnico, para identificar áreas con condiciones físico-químicas similares, llamadas unidades de manejo agronómico, de las cuales se toman submuestras que luego conforman una muestra representativa de todo el terreno. En cuanto a las características físicas, es fundamental evaluar la profundidad efectiva del perfil, la textura, la estructura, la presencia de capas endurecidas y la capacidad de drenaje, ya que texturas extremas como exceso de arcilla o arena limitan el cultivo de palma de aceite; por ello, los suelos más adecuados son profundos, de textura franca, con buena estructura, sueltos, con adecuada circulación de agua y aire y buena retención de humedad.
@@ -57,7 +57,7 @@
     figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/v4JJHx8pSno?si=NAkUM6rsKHTgyNIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Cultivo de palma de aceite
 
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -86,7 +86,7 @@
             .row.mb-5
               .col-lg
                 figure
-                  img(src='@/assets/curso/tema2/7.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema2/7.png', alt='')
             
             h2.mb-5 Limpieza del terreno
             p La adecuación del terreno inicia con la socola, que consiste en cortar plantas herbáceas o leñosas de bajo y mediano porte para facilitar el ingreso de maquinaria; posteriormente, se talan los árboles grandes restantes, conservando las especies ubicadas en áreas de importancia ambiental y manteniendo corredores biológicos, y finalmente se retiran o trozan los residuos vegetales, organizándolos en arrumes longitudinales orientados de norte a sur.
@@ -95,7 +95,7 @@
             .row.mb-5
               .col-lg
                 figure
-                  img(src='@/assets/curso/tema2/8.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema2/8.png', alt='')
             
             h2.mb-5 Labranza
             p Antes de la siembra se realizan labores de labranza con tractor para romper capas endurecidas y mejorar las condiciones del suelo, utilizando implementos como el arado (especialmente en suelos con mal drenaje, aunque su uso debe ser limitado por el impacto que genera), cinceles y subsoladores que descompactan sin voltear las capas y rastras que afinan y airean la superficie. La preparación del terreno puede variar según el tamaño y topografía del lote, y debe considerar factores como textura, estructura y humedad del suelo, ya que los suelos pesados requieren mayor intervención y los livianos menos, procurando trabajar con una humedad adecuada para evitar compactación y erosión.
@@ -313,21 +313,21 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/16.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/16.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Rastreras
               p.mb-0 Son de porte rastrero, entre las que se destacan:  Kudzu (<em>Pueraria phaseoloides</em>), Calipogonium (<em>Calopogonium muconoides</em>), Maní forrajero (<em>Arachis pintoi</em>), Mucuna (<em>Mucuna bracteata</em>), <em>Centrosema pubescens</em> y otras.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/17.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/17.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Semiarbustivas
               p.mb-0 Son de porte bajo o pueden alcanzar hasta 2 o 3 metros de altura, dependiendo de la especie usada, y poseen la ventaja de que no son trepadoras. Dentro de estos se destacan el <em>Desmodium ovalifolium</em>, <em>Desmodium vellotinum</em> y fríjol (<em>Canavalia ensiformes</em>).
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/18.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/18.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Árboles y arbustos
               p Son de porte alto; pueden crecer desde 2 hasta 10 metros de altura. Entre estos tenemos: <em>Flemingia congesta</em>, <em>Tephrosia</em>, sp.  <em>Cajanus cajan</em> (guandul). 
@@ -347,21 +347,21 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/19.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/19.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Alistamiento en vivero
               p.mb-0 Antes de transportar el material vegetal al sitio definitivo, se debe tener en cuenta que 3 o 4 semanas antes de la siembra, se giren las bolsas sobre su mismo eje unos 180º para separar raíces que hayan pasado de la bolsa al suelo del vivero y, una semana antes del trasplante, se le aplique riego a las plantas. Estas deben ser entregadas marcadas con pintura alrededor de la base, de tal manera que sirva como referencia para el operario en el momento de hacer la siembra.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/20.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/20.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Transporte
               p.mb-0 El transporte de las plantas desde el vivero hasta el sitio definitivo debe realizarse un día antes de la siembra, utilizando carretas con tractor, volquetas o camiones cuando las distancias son mayores. Durante el cargue, es fundamental manipular las bolsas con cuidado, sosteniéndolas por la base y el cuello de la palma, evitando golpes o lanzamientos que puedan romper la bolsa, dañar las hojas o exponer las raíces. Finalmente, las plantas se distribuyen en el borde de cada lote para luego llevarlas a los puntos de siembra.
           .row.justify-content-center.align-items-center.p-3.p-lg-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/21.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/21.png', alt='')
             .col-lg-6.mb-4.mb-md-0.order-lg-1
               h4 Trasplante
               p La profundidad de siembra depende del tipo de suelo y del método utilizado; en suelos con baja materia orgánica, la superficie del suelo debe quedar al mismo nivel que el sustrato de la bolsa. El hoyo debe hacerse en el momento de la siembra, con 10 cm más de diámetro y 5 cm más de profundidad que la bolsa, para permitir un buen apisonamiento y evitar espacios de aire que afecten las raíces.
