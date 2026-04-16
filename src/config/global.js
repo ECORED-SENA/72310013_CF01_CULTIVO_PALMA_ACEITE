@@ -421,12 +421,12 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Johanna Gómez',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico-  Regional Santander ',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
