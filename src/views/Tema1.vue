@@ -32,7 +32,7 @@
           .col-lg-6
             .bg-color-4.p-4
               .brbr.mb-3
-                p <b>Nombre científico:</b> <em>elaeis guineensis.</em>
+                p <b>Nombre científico:</b> <em>Elaeis guineensis.</em>
               .brbr.mb-3
                 p <b>Origen:</b> golfo de Guinea en África.
               .brbr.mb-3
@@ -40,8 +40,8 @@
               .brbr.mb-3
                 p <b>Tipo de cultivo:</b> perenne.
               .brbr.mb-3
-                p <b>Promedio de vida útil:</b> Entre 24 y 25 años.
-              p <b>Propósito:</b> Planta oleaginosa que se cultiva para extracción de aceite. Se comercializa para uso culinario, industrial y generación de energía alternativa. 
+                p <b>Promedio de vida útil:</b> entre 24 y 25 años.
+              p <b>Propósito:</b> planta oleaginosa que se cultiva para extracción de aceite. Se comercializa para uso culinario, industrial y generación de energía alternativa. 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
