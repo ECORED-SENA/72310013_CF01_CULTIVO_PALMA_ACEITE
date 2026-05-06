@@ -68,7 +68,7 @@
             .col.mb-3.mb-sm-0
               h5.mb-0 Para profundizar sobre el diseño de la plantación, lo invitamos a que consulte la siguiente lectura complementaria.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/Diseño_plantacion.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexos/Diseño_plantacion.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
