@@ -118,7 +118,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/72310013_CF01_DU.pdf',
+        download: 'downloads/72310013_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -328,7 +328,7 @@ export default {
     {
       referencia:
         'CENIPALMA, SENA, SAC y FONADE. (2002). <em>Selección y descarte de plantas anormales de palma de aceite en viveros</em>. Bogotá: Editorial Ápice.',
-      link: 'https://repositorio.fedepalma.org/handle/123456789/84193',
+      link: '',
     },
     {
       referencia:

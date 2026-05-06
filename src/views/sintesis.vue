@@ -8,7 +8,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="El mapa conceptual sintetiza el componente formativo “Cultivo de palma de aceite: previveros, viveros y siembra”. Inicia con los previveros y viveros, donde se abordan las generalidades del cultivo, incluyendo variedades, rendimiento, condiciones agroecológicas y características de la palma de aceite. Continúa con la selección del material vegetal, que comprende las características de las semillas, su crecimiento y desarrollo, el semillero y la clasificación de las semillas según condiciones, criterios técnicos y proceso de clasificación. Posteriormente, presenta el manejo del vivero, diferenciando previvero y vivero, e incluye actividades como selección y llenado de bolsas, siembra, desarrollo y selección de plantas, control de malezas, plagas y enfermedades, fertilización y riego. Finalmente, integra la etapa de siembra en sitio definitivo, que contempla el diseño de la planeación, la preparación del suelo, el trazado de la plantación, el establecimiento de coberturas vegetales y las actividades de alistamiento en vivero, transporte y trasplante de las plantas.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/anexos/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto
