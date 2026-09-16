@@ -322,8 +322,6 @@ export default {
     {
       referencia:
         'Bustillo, A. (2014). <em>Manejo de insectos plagas de la palma de aceite, con énfasis en control biológico y sus relaciones con el cambio climático</em>. Bogotá.',
-      link:
-        'https://repositorio.fedepalma.org/bitstream/handle/123456789/107659/Guia%20enfermedades%20y%20plagas%2022.pdf?sequence=11',
     },
     {
       referencia:
@@ -379,8 +377,6 @@ export default {
     {
       referencia:
         'Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias - INIFAB. (2011). <em>Producción de planta en Paquete Tecnológico Palma de Aceite (Elaeis guinnensis Jacq.)</em>. México.',
-      link:
-        'https://www.gob.mx/inifap/prensa/inifap-desarrolla-tecnicas-para-producir-palma-de-aceite',
     },
     {
       referencia:
@@ -407,8 +403,6 @@ export default {
     {
       referencia:
         'TECHNOSERVE. (2009). <em>Comparativo técnico de rendimientos de cultivos oleaginosos</em>. Technoserve.',
-      link:
-        'https://bibliotecadelbotanico.org/producto/manual-tecnico-de-palma-africana',
     },
     {
       referencia:
